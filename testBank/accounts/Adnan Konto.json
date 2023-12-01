@@ -1,0 +1,42 @@
+[
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "incomingInterest": 0.01,
+      "outgoingInterest": 0.02,
+      "date": "10.11.2022",
+      "amount": 99.0,
+      "description": "Geschenk"
+    }
+  },
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "incomingInterest": 0.01,
+      "outgoingInterest": 0.02,
+      "date": "5.12.2022",
+      "amount": 396.0,
+      "description": "Geschenk1"
+    }
+  },
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "incomingInterest": 0.01,
+      "outgoingInterest": 0.02,
+      "date": "6.12.2022",
+      "amount": -204.0,
+      "description": "Auszahlen"
+    }
+  },
+  {
+    "CLASSNAME": "IncomingTransfer",
+    "INSTANCE": {
+      "sender": "Ali",
+      "recipient": "Adnan",
+      "date": "8.12.22",
+      "amount": 200.0,
+      "description": "ausleihe"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "incomingInterest": 0.03,
+      "outgoingInterest": 0.05,
+      "date": "10.01.2023",
+      "amount": 4563.365,
+      "description": "descccc"
+    }
+  },
+  {
+    "CLASSNAME": "OutgoingTransfer",
+    "INSTANCE": {
+      "sender": "Messi",
+      "recipient": "ali",
+      "date": "10.01.2023",
+      "amount": -100.0,
+      "description": "gesc123"
+    }
+  },
+  {
+    "CLASSNAME": "OutgoingTransfer",
+    "INSTANCE": {
+      "sender": "Messi",
+      "recipient": "Khalid",
+      "date": "10.01.2023",
+      "amount": -300.0,
+      "description": "Hallllllo"
+    }
+  }
+]
